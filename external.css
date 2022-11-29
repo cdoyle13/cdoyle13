@@ -1,0 +1,12 @@
+h1{color: navy;
+    text-align: center;
+font-weight: bold; font-size: 150;}
+p{color: navy; text-align: center;
+font-size: 120%;
+display:inline-block;}
+
+
+audio{object-fit: contain; border: 10px solid royalblue;}
+video{object-fit: contain; border: 10px solid royalblue;}
+.getconnected button{background-color: rgb(179, 18, 61);color:white;border: none;height: 35 px;width: 110 px;border-radius:3px;}
+.tweet button{background-color: dodgerblue;color: white;border:none;height: 35px;width: 110px; border: radius 3px;}
